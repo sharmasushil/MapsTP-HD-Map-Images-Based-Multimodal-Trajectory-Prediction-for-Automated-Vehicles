@@ -28,14 +28,3 @@ Semantic segmentation derives bounding box coordinates and mask details from a B
 
 <img src="https://github.com/sharmasushil/Optimizing-Ego-Vehicle-Trajectory-Prediction-The-Graph-Enhancement-Approach/assets/70905483/140fda00-482d-448f-bc57-663990356165" width = "650">
 
-## CARLA Results Visualization 📈
-
-Qualitative results: Left depicts a random frame from the Carla simulation, and the middle illustrates the GNN graph structure
-with nodes and edges. On the right, the predicted trajectory of the ego vehicle is plotted over a 5-step horizon, where the starting step is
-marked in blue, and the predicted trajectory is represented in red.
-
-
-<img src="https://github.com/sharmasushil/Optimizing-Ego-Vehicle-Trajectory-Prediction-The-Graph-Enhancement-Approach/assets/70905483/b97c4dc1-cfe0-400d-a285-cc26e894ab6b" width ="650">
-
-## Citation 👇🏻
-If you use this dataset in your research or work, we kindly request that you cite the following paper:
