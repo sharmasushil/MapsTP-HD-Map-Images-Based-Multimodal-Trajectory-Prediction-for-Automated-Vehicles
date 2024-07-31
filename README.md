@@ -1,6 +1,5 @@
 <p align="center">
     <h4 align="center"><a href="https://library.imaging.org/ei/articles/36/17/AVM-115">📑 Article</a>   href="https://docs.google.com/presentation/d/1R7yt0BJVVkZIXfyz3MIcuNJkGIw8Z_Vk/edit#slide=id.p1">🎙️Talk</a>    
-</p>
 
 # MapsTP: HD Map Images Based Multimodal Trajectory Prediction for Automated Vehicles 🚗
 
