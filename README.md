@@ -29,7 +29,7 @@ possible trajectories, each representing a potential path that a vehicle might t
 such as speed and direction. It provides valuable insights into the diverse range of paths that vehicles could
 follow in different scenarios. Note that, our model’s trajectory predictions are well-represented, as evidenced
 by the ground truth depicted on the right-hand side in green. This alignment with ground truth demonstrates
-the efficacy of our model in accurately forecasting vehicle trajectories. In Figure 3, we consider the highest
+the efficacy of our model in accurately forecasting vehicle trajectories. In Figure, we consider the highest
 probability to predict the trajectory, but we also take into account other probabilities for different scenarios.
 
 
