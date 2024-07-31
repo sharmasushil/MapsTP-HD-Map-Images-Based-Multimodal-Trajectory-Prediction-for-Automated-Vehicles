@@ -33,3 +33,17 @@ probability to predict the trajectory, but we also take into account other proba
 
 <img src="https://github.com/user-attachments/assets/f1dbbf7b-1710-41e3-9a23-2436fa1a9e06" width ="650">
 
+## Citation👇🏻
+
+If you use this dataset in your research or work, we kindly request that you cite the following paper:
+
+```BibTeX
+@article{sharma2024mapstp,
+  title={MapsTP: HD Map Images Based Multimodal Trajectory Prediction for Automated Vehicles},
+  author={Sharma, Sushil and Das, Arindam and Sistu, Ganesh and Halton, Mark and Eising, Ciar{\'a}n},
+  journal={arXiv preprint arXiv:2407.05811},
+  year={2024}
+}
+```
+
+
