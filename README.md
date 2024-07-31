@@ -20,7 +20,7 @@ analyzed by a probabilistic network, which evaluates multiple potential trajecto
 each.
 ![IMVIPdraft8](https://github.com/user-attachments/assets/77be7331-d7e2-4e62-baff-f6d4d9e1aa18)
 
-<img src="https://github.com/sharmasushil/Optimizing-Ego-Vehicle-Trajectory-Prediction-The-Graph-Enhancement-Approach/assets/70905483/ad96c3e6-42d0-4553-8aea-fbcfac442e37" width ="650">
+<img src="https://github.com/user-attachments/assets/77be7331-d7e2-4e62-baff-f6d4d9e1aa18" width ="650">
 
 
 ## Our proposed architecture ⛓️
