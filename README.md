@@ -14,7 +14,10 @@ trajectory paths. This method integrates HD map data to improve the robustness a
 predictions for autonomous vehicles.
 
 ## Our Overview 📑
-Our Overview: Segment anything model extracts bounding box info. GNN processes the graph for spatial feature relations, predicting ego vehicle trajectory with LSTM layers.
+Our proposed architecture: HD Map Integration for Vehicle Trajectory Planning. The process
+begins with the feature extractor analyzing these inputs to create image features. These features are then
+analyzed by a probabilistic network, which evaluates multiple potential trajectories and assigns probabilities to
+each.
 
 <img src="https://github.com/sharmasushil/Optimizing-Ego-Vehicle-Trajectory-Prediction-The-Graph-Enhancement-Approach/assets/70905483/ad96c3e6-42d0-4553-8aea-fbcfac442e37" width ="650">
 
