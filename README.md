@@ -18,6 +18,7 @@ Our proposed architecture: HD Map Integration for Vehicle Trajectory Planning. T
 begins with the feature extractor analyzing these inputs to create image features. These features are then
 analyzed by a probabilistic network, which evaluates multiple potential trajectories and assigns probabilities to
 each.
+![IMVIPdraft8](https://github.com/user-attachments/assets/77be7331-d7e2-4e62-baff-f6d4d9e1aa18)
 
 <img src="https://github.com/sharmasushil/Optimizing-Ego-Vehicle-Trajectory-Prediction-The-Graph-Enhancement-Approach/assets/70905483/ad96c3e6-42d0-4553-8aea-fbcfac442e37" width ="650">
 
