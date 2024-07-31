@@ -13,7 +13,8 @@ network is employed to compute potential trajectories, selecting the most accura
 trajectory paths. This method integrates HD map data to improve the robustness and reliability of trajectory
 predictions for autonomous vehicles.
 
-## Our Overview 📑
+## Our proposed architecture ⛓️
+
 Our proposed architecture: HD Map Integration for Vehicle Trajectory Planning. The process
 begins with the feature extractor analyzing these inputs to create image features. These features are then
 analyzed by a probabilistic network, which evaluates multiple potential trajectories and assigns probabilities to
