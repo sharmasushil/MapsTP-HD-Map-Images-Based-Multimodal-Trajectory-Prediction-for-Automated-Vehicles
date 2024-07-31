@@ -33,4 +33,5 @@ the efficacy of our model in accurately forecasting vehicle trajectories. In Fig
 probability to predict the trajectory, but we also take into account other probabilities for different scenarios.
 
 <img width="867" alt="Screenshot 2024-07-31 at 10 56 35" src="https://github.com/user-attachments/assets/f1dbbf7b-1710-41e3-9a23-2436fa1a9e06">
+<img src="https://github.com/user-attachments/assets/f1dbbf7b-1710-41e3-9a23-2436fa1a9e06" width ="650">
 
